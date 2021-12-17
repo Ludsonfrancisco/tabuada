@@ -30,13 +30,14 @@ npm test
 
 👤 **Ludson Francisco**
 
-* Website: https://www.linkedin.com/in/ludsonfrancisco/
-* Github: [@LudsonFrancisco](https://github.com/LudsonFrancisco)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ludsonfrancisco\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ludsonfrancisco\/)
+- Website: https://tabuada-seven.vercel.app/
+- Github: [@LudsonFrancisco](https://github.com/LudsonFrancisco)
+- LinkedIn: [@https:\/\/www.linkedin.com\/in\/ludsonfrancisco\/](https://linkedin.com/in/https://www.linkedin.com/in/ludsonfrancisco/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
