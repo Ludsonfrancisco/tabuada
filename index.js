@@ -11,7 +11,7 @@ app.use('/tabuadas', tabuadaRouter)
 
 
 //css
-app.use(express.static('public'))
+app.use(express.static(path.join((__dirname, 'public')))
 
 //view engine
 app.set('viwes', path.join(__dirname, 'views'))
