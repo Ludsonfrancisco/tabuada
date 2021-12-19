@@ -9,3 +9,18 @@ body {
 li {
   list-style-type: none;
 }
+
+.test {
+  width: 75%;
+  margin: auto;
+}
+
+.test td {
+  width: 60px;
+  height: 20px;
+  text-align: center;
+  font-size: 12px;
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+}
